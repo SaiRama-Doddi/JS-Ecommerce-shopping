@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav{
+    height: 50px;
+    background-color: aqua;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    align-items: end;
+}
+
+ul li{
+    list-style: none;
+    gap:20px;
+}
