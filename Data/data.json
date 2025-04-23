@@ -14,7 +14,7 @@
         "material": "Cotton",
         "rating": 4.5,
         "stock": 120,
-        "images": ["https://example.com/images/tshirt-men.jpg"],
+        "images": ["https://media-us.landmarkshops.in/cdn-cgi/image/h=1200,w=1200,q=85,fit=cover/max-new/1000013561827-Green-GREEN-1000013561827_01-2100.jpg"],
         "tags": ["summer", "casual", "tshirt"]
       },
       {
@@ -31,7 +31,7 @@
         "material": "Polyester",
         "rating": 4.7,
         "stock": 80,
-        "images": ["https://example.com/images/summer-dress.jpg"],
+        "images": ["https://images-na.ssl-images-amazon.com/images/I/81Bt3JwfjeL.jpg"],
         "tags": ["dress", "summer", "floral"]
       },
       {
