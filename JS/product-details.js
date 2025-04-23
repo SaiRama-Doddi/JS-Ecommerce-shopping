@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                 <p><strong>Price:</strong> $${selectedProduct.price}</p>
                 <p><strong>Category:</strong> ${selectedProduct.category} (${selectedProduct.subcategory})</p>
                 <p><strong>Brand:</strong> ${selectedProduct.brand}</p>
-                <p><strong>Sizes:</strong> ${selectedProduct.size.join(", ")}</p>
+                <p><strong>Sizes:</strong> ${selectedProduct.size}</p>
                 <p><strong>Rating:</strong> ${selectedProduct.rating} ⭐</p>
                 <p><strong>Color:</strong> ${selectedProduct.color}</p>
                 <p><strong>Material:</strong> ${selectedProduct.material}</p>

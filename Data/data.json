@@ -48,7 +48,7 @@
         "material": "Fleece",
         "rating": 4.6,
         "stock": 200,
-        "images": ["https://example.com/images/unisex-hoodie.jpg"],
+        "images": ["https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/624241/75/mod01/fnd/IND/fmt/png/BETTER-CLASSICS-Hoodie"],
         "tags": ["hoodie", "winter", "unisex"]
       },
       {
@@ -65,7 +65,7 @@
         "material": "Spandex",
         "rating": 4.9,
         "stock": 150,
-        "images": ["https://example.com/images/leggings.jpg"],
+        "images": ["https://cdn.fcglcdn.com/brainbees/images/products/583x720/16100907a.webp"],
         "tags": ["fitness", "leggings", "workout"]
       },
       {
@@ -82,7 +82,7 @@
         "material": "Leather",
         "rating": 4.3,
         "stock": 60,
-        "images": ["https://example.com/images/sandals-women.jpg"],
+        "images": ["https://eu.stuartweitzman.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-04/default/dwd954ee59/images/zoom/SE132PAT_BLK_0.jpg?sw=990&sh=1125&sm=fit"],
         "tags": ["leather", "footwear", "women"]
       },
       {
@@ -99,7 +99,7 @@
         "material": "Mesh & Rubber",
         "rating": 4.6,
         "stock": 95,
-        "images": ["https://example.com/images/sneakers-men.jpg"],
+        "images": ["https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/386787/01/sv01/fnd/IND/fmt/png/Hampton-Sneakers"],
         "tags": ["sneakers", "casual", "men"]
       },
       {
@@ -115,7 +115,7 @@
         "ingredients": ["Vitamin C", "Hyaluronic Acid", "Aloe Vera"],
         "rating": 4.8,
         "stock": 150,
-        "images": ["https://example.com/images/serum.jpg"],
+        "images": ["https://cdn.fcglcdn.com/brainbees/images/products/583x720/20151572a.webp"],
         "tags": ["beauty", "skincare", "serum"]
       },
       {
@@ -130,7 +130,7 @@
         "color": ["Red", "Nude", "Rose", "Coral", "Berry"],
         "rating": 4.4,
         "stock": 70,
-        "images": ["https://example.com/images/lipstick-set.jpg"],
+        "images": ["https://cdn.fcglcdn.com/brainbees/images/products/583x720/11239804a.webp"],
         "tags": ["lipstick", "makeup", "matte"]
       },
       {
@@ -145,7 +145,7 @@
         "volume": "100ml",
         "rating": 4.7,
         "stock": 110,
-        "images": ["https://example.com/images/sunscreen.jpg"],
+        "images": ["https://cdn.fcglcdn.com/brainbees/images/products/583x720/11153249a.webp"],
         "tags": ["spf", "sunscreen", "skincare"]
       },
       {
@@ -161,7 +161,7 @@
         "material": "Canvas",
         "rating": 4.5,
         "stock": 130,
-        "images": ["https://example.com/images/tote-bag.jpg"],
+        "images": ["https://cdn.shopify.com/s/files/1/0941/8668/products/tote-bags-wholesale-bagzdepot-4370234048617@2x.jpg?v=1583445177"],
         "tags": ["bag", "shopping", "eco"]
       },
       {
@@ -177,7 +177,7 @@
         "material": "Genuine Leather",
         "rating": 4.4,
         "stock": 90,
-        "images": ["https://example.com/images/wallet.jpg"],
+        "images": ["https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/091056/02/fnd/IND/fmt/png/Leather-Embossed-Bi-Fold-Wallet"],
         "tags": ["wallet", "leather", "rfid"]
       },
       {
@@ -192,7 +192,7 @@
         "color": "Pink",
         "rating": 4.3,
         "stock": 60,
-        "images": ["https://example.com/images/makeup-mirror.jpg"],
+        "images": ["https://images-na.ssl-images-amazon.com/images/I/71v%2BQVF1m-L.jpg"],
         "tags": ["mirror", "makeup", "compact"]
       },
       {
@@ -209,7 +209,7 @@
         "material": "Denim",
         "rating": 4.7,
         "stock": 70,
-        "images": ["https://example.com/images/denim-jacket.jpg"],
+        "images": ["https://tse4.mm.bing.net/th/id/OIP.lkmguzUB_JFRlktxgYGtQwHaJb?rs=1&pid=ImgDetMain"],
         "tags": ["jacket", "denim", "men"]
       },
       {
@@ -225,7 +225,7 @@
         "material": "Eco PVC",
         "rating": 4.6,
         "stock": 100,
-        "images": ["https://example.com/images/yoga-mat.jpg"],
+        "images": ["https://tse3.mm.bing.net/th/id/OIP.nC4p2MT1mi1CKAd9VsLIKwAAAA?rs=1&pid=ImgDetMain"],
         "tags": ["yoga", "fitness", "mat"]
       },
       {
@@ -239,7 +239,7 @@
         "brand": "AromaBloom",
         "rating": 4.5,
         "stock": 85,
-        "images": ["https://example.com/images/perfume-set.jpg"],
+        "images": ["https://tse1.mm.bing.net/th/id/OIP.wMt7pNKfVD_opRnrS-wfhwAAAA?rs=1&pid=ImgDetMain"],
         "tags": ["perfume", "travel", "fragrance"]
       }
     ]
