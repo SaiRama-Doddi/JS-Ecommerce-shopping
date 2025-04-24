@@ -222,6 +222,11 @@ a:hover {
     margin-right: 5px;
   }
 
+  input[type="checkbox"] {
+    accent-color: orange; /* sets background + tick color (in supported browsers) */
+  }
+  
+
   .category-in span{
     font-size: 18px;
   }
